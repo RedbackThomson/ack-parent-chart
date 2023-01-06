@@ -1,12 +1,12 @@
 dependencies:
-- name: s3-chart
+- name: eks-chart
   repository: oci://public.ecr.aws/aws-controllers-k8s
-  version: v0.1.0
+  version: v0.1.8
 - name: iam-chart
   repository: oci://public.ecr.aws/aws-controllers-k8s
-  version: v0.0.15
+  version: v0.1.1
 - name: ec2-chart
   repository: oci://public.ecr.aws/aws-controllers-k8s
-  version: v0.0.15
-digest: sha256:92a11b5bbbe22d33e48db2b3a1f1a3abc0e53644e1335e4a6760ff5b4b39fa51
-generated: "2022-05-24T13:39:16.726361345-07:00"
+  version: v0.1.0
+digest: sha256:3bb122636b0f25fb3308e569cb349d3bddb62a313daf3be321706f79f952383e
+generated: "2023-01-06T22:41:39.460007537Z"

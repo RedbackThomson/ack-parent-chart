@@ -1,8 +1,8 @@
-s3-chart:
+eks:
   enabled: false
 
-iam-chart:
+iam:
   enabled: false
 
-ec2-chart:
+ec2:
   enabled: false
